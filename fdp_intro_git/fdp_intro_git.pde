@@ -16,4 +16,9 @@ void draw(){
   rectMode(CENTER);
   fill(0);
   rect(300,250,50,50);
+  
+  // punto 4
+  rectMode(CENTER);
+  fill(0,0,255);
+  rect(350,250,50,50);
 }
