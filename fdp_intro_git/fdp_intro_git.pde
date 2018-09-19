@@ -7,4 +7,8 @@ void draw(){
   background(255);
   fill(255,255,255);
   ellipse(mouseX,mouseY,50,50);
+  
+  //punto 2
+  recMode(CENTER);
+  rect(250,250,50,50);
 }
