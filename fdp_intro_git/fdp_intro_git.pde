@@ -9,6 +9,6 @@ void draw(){
   ellipse(mouseX,mouseY,50,50);
   
   //punto 2
-  recMode(CENTER);
+  rectMode(CENTER);
   rect(250,250,50,50);
 }
